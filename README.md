@@ -1,1 +1,1 @@
-RSpecとgithubで2周目をやってみる
+RSpecとgithubでRailsチュートリアル2周目をやってみる
